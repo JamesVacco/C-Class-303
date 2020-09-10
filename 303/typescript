@@ -1,0 +1,15 @@
+Script started on Wed 05 Sep 2018 03:20:51 PM EDT
+]0;jfv01981@lincoln: ~/303[01;32mjfv01981@lincoln[00m:[01;34m~/303[00m$ ./helloworld
+hello world!
+]0;jfv01981@lincoln: ~/303[01;32mjfv01981@lincoln[00m:[01;34m~/303[00m$ w
+ 15:21:30 up 7 days,  6:10,  5 users,  load average: 0.00, 0.02, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+rjh07151 pts/0    10.43.13.24      14:52    7.00s  0.13s  0.13s -bash
+klj02258 pts/1    10.43.12.214     14:52    0.00s  0.13s  0.13s -bash
+wharriso pts/2    10.42.1.145      14:55    2.00s  0.81s  0.81s -zsh
+jl05906  pts/3    10.43.12.104     14:55    5.00s  0.10s  0.10s -bash
+jfv01981 pts/4    10.43.10.106     14:57    2.00s  0.10s  0.00s script
+]0;jfv01981@lincoln: ~/303[01;32mjfv01981@lincoln[00m:[01;34m~/303[00m$ exit
+exit
+
+Script done on Wed 05 Sep 2018 03:21:39 PM EDT
